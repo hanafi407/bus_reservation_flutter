@@ -1,7 +1,7 @@
-# Bus Reservation
+# Bus Reservation Frontend using Flutter
 Bus-Reservation-Backend: [Bus-Reservation-Backend](https://github.com/hanafi407/bus-reservation-spring-boot)
 ## Overview
-The **Bus Reservation System** is a web application that allows users to search, book, and manage bus tickets. The application provides features for passengers, administrators, and bus operators, ensuring seamless and efficient booking and management of bus services.
+The **Bus Reservation System** is a web application that allows users to search, book, and manage bus tickets. The application provides features for passengers and bus operators, ensuring seamless and efficient booking and management of bus services.
 
 ---
 
@@ -9,7 +9,7 @@ The **Bus Reservation System** is a web application that allows users to search,
 
 - **Frontend**: Flutter
 - **Backend**: Spring Boot
-- **Database**: MySQL/PostgreSQL (customizable)
+- **Database**: PostgreSQL (customizable)
 - **API Communication**: RESTful APIs
 - **Build Tools**: Maven (backend), npm (frontend)
 
@@ -35,5 +35,5 @@ The **Bus Reservation System** is a web application that allows users to search,
 
 1. Clone the backend repository:
    ```bash
-   git clone https://github.com/hanafi407/bus-reservation-backend.git
-   cd bus-reservation-backend
+   git clone https://github.com/hanafi407/bus-reservation-flutter.git
+   cd bus-reservation-flutter
