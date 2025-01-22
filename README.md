@@ -1,5 +1,5 @@
 # Bus Reservation
-Bus-Reservation-Frontend: [Bus-Reservation-Frontend-Flutter](https://github.com/hanafi407/bus-reservation-spring-boot)
+Bus-Reservation-Backend: [Bus-Reservation-Frontend-Flutter](https://github.com/hanafi407/bus-reservation-spring-boot)
 ## Overview
 The **Bus Reservation System** is a web application that allows users to search, book, and manage bus tickets. The application provides features for passengers, administrators, and bus operators, ensuring seamless and efficient booking and management of bus services.
 
